@@ -30,7 +30,7 @@ def print_matrix(rows, cols):
         print("\033[H\033[J")  # Clear the screen (works on Unix-like systems, adjust as needed)
 
 # Adjust rows and cols for the size of the matrix
-print_matrix(25, 100)
+print_matrix(25, 80)
 
 
 
